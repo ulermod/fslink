@@ -20,5 +20,14 @@
   "gypfile": true,
   "dependencies": {
     "nan": "^2.2.1"
-  }
+  },
+  "devDependencies": {},
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ulermod/fslink.git"
+  },
+  "bugs": {
+    "url": "https://github.com/ulermod/fslink/issues"
+  },
+  "homepage": "https://github.com/ulermod/fslink#readme"
 }
