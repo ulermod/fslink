@@ -1,0 +1,24 @@
+{
+  "name": "fslink",
+  "version": "1.0.0",
+  "description": "Synchronous Tcp Socket Freeswitch",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "install": "node-gyp rebuild",
+    "build": "node-gyp configure build"
+  },
+  "keywords": [
+    "Synchronous",
+    "Tcp",
+    "Socket",
+    "Nodejs",
+    "Freeswitch"
+  ],
+  "author": "Michael Grant <a.michael.grant@gmail.com>",
+  "license": "ISC",
+  "gypfile": true,
+  "dependencies": {
+    "nan": "^2.2.1"
+  }
+}
